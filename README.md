@@ -2,20 +2,22 @@
 
 
 Resources:
-* Software Architect's Handbook: [Packt Link](https://www.packtpub.com/application-development/software-architects-handbook).
+* Software Architect's Handbook: [Packt Link](https://www.packtpub.com/application-development/software-architects-handbook)
 * Software Architecture in Practice: [PDF](http://jz81.github.io/course/sa/Software%20Architecture%20in%20Practice%20(3rd).pdf)
 * Solution Architecture Resources: [Github Link](https://github.com/unlight/solution-architecture)
 
 
 ---
 
-# 1. The Meaning of Software Architecture
+# Software Architect's Handbook
 
-# 2. Software Architecture in an Organization
+## 1. The Meaning of Software Architecture
 
-# 3. Understanding the Domain
+## 2. Software Architecture in an Organization
 
-# 4. Software Quality Attributes
+## 3. Understanding the Domain
+
+## 4. Software Quality Attributes
 * Quality attributes
 * Maintainability
 * Usability
@@ -24,11 +26,11 @@ Resources:
 * Interoperability
 * Testability
 
-# 5. Designing Software Architectures
+## 5. Designing Software Architectures
 
-# 6. Software Development Principles and Practices
+## 6. Software Development Principles and Practices
 
-# 7. Software Architecture Patterns
+## 7. Software Architecture Patterns
 * Software architecture patterns
 * Layered architecture
 * Event-driven architecture
@@ -38,26 +40,26 @@ Resources:
 * The Command Query Responsibility Segregation pattern
 * Service-oriented architecture
 
-# 8. Architecting Modern Applications
+## 8. Architecting Modern Applications
 * Monolithic architecture
 * Microservice architecture
 * Serverless architecture
 * Cloud-native applications
 
-# 9. Cross-Cutting Concerns
+## 9. Cross-Cutting Concerns
 
-# 10. Performance Considerations
+## 10. Performance Considerations
 
-# 11. Security Considerations
+## 11. Security Considerations
 
-# 12. Documenting and Reviewing Software Architectures
+## 12. Documenting and Reviewing Software Architectures
 
-# 13. DevOps and Software Architecture
+## 13. DevOps and Software Architecture
 
-# 14. Architecting Legacy Applications
+## 14. Architecting Legacy Applications
 
-# 15. The Soft Skills of Software Architects
+## 15. The Soft Skills of Software Architects
 
-# 16. Evolutionary Architecture
+## 16. Evolutionary Architecture
 
-# 17. Becoming a Better Software Architect
+## 17. Becoming a Better Software Architect
